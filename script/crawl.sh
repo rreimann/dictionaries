@@ -140,8 +140,8 @@ crawl "galician" \
   "http://extensions.openoffice.org/en/project/corrector-ortografico-hunspell-para-galego" \
   "http://sourceforge.net/projects/aoo-extensions/files/5660/1/hunspell-gl-13.10.oxt/download"
 crawl "german" \
-  "http://extensions.openoffice.org/en/project/german-de-de-igerman98-dictionaries" \
-  "http://sourceforge.net/projects/aoo-extensions/files/1050/4/dict-de_de-igerman98_2011-06-21.oxt/download"
+  "https://extensions.openoffice.org/project/dict-de_DE_frami" \
+  "https://sourceforge.net/projects/aoo-extensions/files/1075/15/dict-de_de-frami_2017-01-12.oxt/download"
 crawl "greek" \
   "http://extensions.openoffice.org/en/project/hellenic-greek-dictionary-spell-check-and-hyphenation" \
   "http://sourceforge.net/projects/aoo-extensions/files/1411/2/el_gr_v110.oxt/download"
@@ -394,9 +394,9 @@ generate "galician" \
 generate "german" \
   "de_DE" \
   "(GPL-2.0 OR GPL-3.0)" \
-  "de_DE_igerman98/Copyright" \
-  "de_DE_igerman98/de_DE_igerman98.dic" \
-  "de_DE_igerman98/de_DE_igerman98.aff" \
+  "de_DE_frami/de_DE_frami_README.txt" \
+  "de_DE_frami/de_DE_frami.dic" \
+  "de_DE_frami/de_DE_frami.aff" \
   "ISO8859-1"
 
 #
